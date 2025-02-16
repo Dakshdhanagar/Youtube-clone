@@ -1,2 +1,2 @@
 # Youtube-clone
-i have clerated the youtube UI
+i have created the youtube UI using html,css,javascript
